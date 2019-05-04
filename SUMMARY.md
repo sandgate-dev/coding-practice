@@ -22,3 +22,7 @@
 
 * [Untitled](codesignal/untitled.md)
 
+## codewars
+
+* [Move Zeros to the end of list](codewars/move-zeros-to-the-end-of-list.md)
+
