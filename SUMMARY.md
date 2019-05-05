@@ -1,6 +1,9 @@
 # Table of contents
 
-* [practice coding](README.md)
+* [Introduction](README.md)
+* [Practice Coding](practice-coding.md)
+* [plaid API](plaid-api.md)
+* [About](about.md)
 
 ## leetcode
 
