@@ -1,3 +1,7 @@
+---
+description: Notes from Cracking the Coding Interview - 6th Edition
+---
+
 # Big O
 
 * Time & Space Complexity
@@ -25,7 +29,7 @@
 
   ```text
   for (int a : arrA) {
-      for (int b : ArrB) {
+      for (int b : arrB) {
           print(a + "," + b);
       }
   }
