@@ -23,6 +23,7 @@
 * [CODESIGNAL](coding/codesignal-1/README.md)
   * [Untitled](coding/codesignal-1/untitled.md)
 * [CODEWARS](coding/codewars/README.md)
+  * [queue\_time](coding/codewars/queue_time.md)
   * [Move Zeros to the end of list](coding/codewars/move-zeros-to-the-end-of-list.md)
 
 ## api project
