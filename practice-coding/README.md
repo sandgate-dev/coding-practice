@@ -24,10 +24,10 @@
 * [rosettacode](https://rosettacode.org)
 * [adventures in machine learning](https://adventuresinmachinelearning.com)
 
-### Docs \(offline\)
+### docs \(offline\)
 
-* [https://devdocs.io/](https://devdocs.io/)
-* [https://kapeli.com/dash](https://kapeli.com/dash)
+* [devdocs](https://devdocs.io/)
+* [dash](https://kapeli.com/dash)
 
 ## Books
 
