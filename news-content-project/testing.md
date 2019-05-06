@@ -1,4 +1,4 @@
-# news content reliability acc
+# news content reliability API
 
 ## Getting Super Powers
 

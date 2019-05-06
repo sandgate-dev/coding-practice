@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Practice Coding](practice-coding.md)
+* [Practice Coding](practice-coding/README.md)
+  * [Big O](practice-coding/big-o.md)
 * [About](about.md)
 
 ## coding
@@ -31,5 +32,5 @@
 
 ## news content project
 
-* [news content reliability acc](news-content-project/testing.md)
+* [news content reliability API](news-content-project/testing.md)
 
