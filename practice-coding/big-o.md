@@ -168,7 +168,7 @@ void reverse(int[] array){
 
 Balanced binary search tree \(see page 49\).
 
-```text
+```java
 int sum(Node node){
     if (node == null){
         return 0;
@@ -179,7 +179,7 @@ int sum(Node node){
 
 #### $$O(\sqrt{n})$$
 
-```text
+```java
 boolean isPrime(int n){
     for (int x = 2; x * x <= n; x++){
         if (n % x == 0){
