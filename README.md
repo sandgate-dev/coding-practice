@@ -1,8 +1,7 @@
----
+# Introduction
+
 A notebook and a place to gather my thoughts
 ---
-
-# Introduction
 
 * practice daily coding
 * read a paper or interesting article or book
