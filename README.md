@@ -1,16 +1,16 @@
-# Introduction
-
-A notebook and a place to gather my thoughts
+---
+description: A notebook and a place to gather my thoughts
 ---
 
-* practice daily coding
-* read a paper or interesting article or book
+# Introduction
+
+* practice daily - coding
+* read a paper or interesting article
 * work on your project\(s\)
   * news content api \(ML\)
   * plaid api
   * strava api \(ML\)
-  * etc.
-* write down your thoughts, ideas, etc.
+* thoughts, ideas, etc.
 
 
 

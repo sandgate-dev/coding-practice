@@ -5,6 +5,10 @@
   * [Big O](practice-coding/big-o.md)
 * [About](about.md)
 
+## calendar
+
+* [Todos](calendar/todo.md)
+
 ## coding
 
 * [LEETCODE](coding/leetcode/README.md)
@@ -26,7 +30,30 @@
   * [queue\_time](coding/codewars/queue_time.md)
   * [Move Zeros to the end of list](coding/codewars/move-zeros-to-the-end-of-list.md)
 * [ML/DL](coding/ml-dl/README.md)
-  * [tensorfow](coding/ml-dl/tensorfow.md)
+  * [Advanced Computer Vision with TensorFlow](coding/ml-dl/tensorfow/README.md)
+    * [Ch1: SqueezeNet](coding/ml-dl/tensorfow/untitled-2/README.md)
+      * [Load and Explore Cifar10 Dataset](coding/ml-dl/tensorfow/untitled-2/load-and-explore-cifar10-dataset.md)
+      * [Implementation of a CNN Fire module for SqueezeNet](coding/ml-dl/tensorfow/untitled-2/implementation-of-a-cnn-fire-module-for-squeezenet.md)
+      * [SqueezeNet Architecture Design](coding/ml-dl/tensorfow/untitled-2/squeezenet-architecture-design.md)
+      * [Train and Evaluate SqueezeNet on Cifar10 Dataset](coding/ml-dl/tensorfow/untitled-2/train-and-evaluate-squeezenet-on-cifar10-dataset.md)
+    * [Ch2: ResNet](coding/ml-dl/tensorfow/untitled-1/README.md)
+      * [Load and Explore the Flower Dataset](coding/ml-dl/tensorfow/untitled-1/load-and-explore-the-flower-dataset.md)
+      * [Implementation of a Deep Residual Neural Network](coding/ml-dl/tensorfow/untitled-1/implementation-of-a-deep-residual-neural-network.md)
+      * [Deep Residual Network Architectural Design](coding/ml-dl/tensorfow/untitled-1/deep-residual-network-architectural-design.md)
+      * [Training and Evaluating ResNet Model](coding/ml-dl/tensorfow/untitled-1/training-and-evaluating-resnet-model.md)
+    * [Ch3: Xception](coding/ml-dl/tensorfow/ch3-xception/README.md)
+      * [Load and Explore the ImageNet Dataset](coding/ml-dl/tensorfow/ch3-xception/load-and-explore-the-imagenet-dataset.md)
+      * [Xception Architectural Design](coding/ml-dl/tensorfow/ch3-xception/xception-architectural-design.md)
+      * [Implementation of Xception Model](coding/ml-dl/tensorfow/ch3-xception/implementation-of-xception-model.md)
+      * [Training and Evaluating Xception Model](coding/ml-dl/tensorfow/ch3-xception/training-and-evaluating-xception-model.md)
+    * [Ch4: ACGAN](coding/ml-dl/tensorfow/chapter-4-conditional-generative-adversarial-network/README.md)
+      * [Loading and Exploring MNIST Dataset](coding/ml-dl/tensorfow/chapter-4-conditional-generative-adversarial-network/loading-and-exploring-mnist-dataset.md)
+      * [ACGAN Architectural Design](coding/ml-dl/tensorfow/chapter-4-conditional-generative-adversarial-network/acgan-architectural-design.md)
+      * [Implementation of ACGAN Model](coding/ml-dl/tensorfow/chapter-4-conditional-generative-adversarial-network/implementation-of-acgan-model.md)
+      * [Training and Evaluating ACGAN Model](coding/ml-dl/tensorfow/chapter-4-conditional-generative-adversarial-network/training-and-evaluating-acgan-model.md)
+* [Data Structure and Algorithms](coding/data-structure-and-algorithms/README.md)
+  * [Linked Lists in Python](coding/data-structure-and-algorithms/linked-lists-in-python.md)
+  * [ADVANCED DATA STRUCTURES](coding/data-structure-and-algorithms/advanced-data-structures.md)
 
 ## api project
 

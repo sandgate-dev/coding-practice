@@ -10,7 +10,7 @@ description: Notes from Cracking the Coding Interview - 6th Edition
   * $$O(N + log N)$$becomes $$O(N)$$
   * $$O(5*2^N + 1000N^{100})$$becomes $$O(2^N)$$
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 * Multi-Part Algorithms: Add vs Multiply
 

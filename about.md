@@ -8,7 +8,7 @@ Data Scientist with comprehensive expertise in computer graphics, visual effects
 
 ## Contact
 
-email: stephan.osterburg@icould.com
+[email me](mailto:stephan.osterburg@icould.com)
 
 [@linkedin](https://linkedin.com/in/stephanosterburg)
 
@@ -16,7 +16,7 @@ email: stephan.osterburg@icould.com
 
 ## Resume \(part\)
 
-{% file src=".gitbook/assets/profile.pdf" caption="Resume" %}
+{% file src=".gitbook/assets/stephanosterburg\_cv\_2019.pdf" %}
 
 ### **Data Scientist Graduate Student**
 

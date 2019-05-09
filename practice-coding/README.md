@@ -14,6 +14,8 @@
 * [leetcode](www.leetcode.com)
 * [codesignal](www.codesignal.com)
 * [codewars](www.codewars.com)
+* [hackerrank](https://www.hackerrank.com/)
+* [Daily Coding Problem](https://dailycodingproblem.com/)
 
 ### reference
 
@@ -22,6 +24,7 @@
 * [geeks for geeks](www.geeksforgeeks.org)
 * [programiz](https://www.programiz.com)
 * [rosettacode](https://rosettacode.org)
+* [tutorialpoint](https://www.tutorialspoint.com)
 * [adventures in machine learning](https://adventuresinmachinelearning.com)
 
 ### docs \(offline\)
