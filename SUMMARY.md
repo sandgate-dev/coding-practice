@@ -11,6 +11,7 @@
 
 ## coding
 
+* [EXERCISES](coding/exercises.md)
 * [LEETCODE](coding/leetcode/README.md)
   * [Traverse a Tree](coding/leetcode/traverse-a-tree/README.md)
     * [Binary Tree Traversal](coding/leetcode/traverse-a-tree/binary-tree-traversal.md)
