@@ -2,7 +2,7 @@
 
 ## blackjack
 
-Initial version
+Coding interview @ freenome \(initial version\)
 
 ```python
 import os
