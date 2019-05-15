@@ -26,11 +26,13 @@
 * [rosettacode](https://rosettacode.org)
 * [tutorialpoint](https://www.tutorialspoint.com)
 * [adventures in machine learning](https://adventuresinmachinelearning.com)
+* [programcreek](https://www.programcreek.com/python/)
 
 ### docs \(offline\)
 
 * [devdocs](https://devdocs.io/)
 * [dash](https://kapeli.com/dash)
+* [kite](www.kite.com)
 
 ## Books
 
